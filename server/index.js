@@ -28,7 +28,8 @@ app.use(
         origin: function (origin, callback) {
             const allowedOrigins = [
                 "https://elaborate-dango-f54071.netlify.app",
-                "https://66901fbbdc6b2e225f38f4b1--elaborate-dango-f54071.netlify.app"
+                "https://66901fbbdc6b2e225f38f4b1--elaborate-dango-f54071.netlify.app",
+                    "https://harsh-edtech-project.netlify.app"
             ];
             if (!origin || allowedOrigins.indexOf(origin) !== -1) {
                 callback(null, true);
