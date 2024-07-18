@@ -280,7 +280,7 @@ exports.changePassword = async (req, res) => {
   
       // Get old password, new password, and confirm new password from req.body
       const { oldPassword, newPassword } = req.body
-      console.log("ye delkle bkl",oldPassword , "ye bhi", newPassword)
+      
   
       // Validate old password
       const isPasswordMatch = await bcrypt.compare(
