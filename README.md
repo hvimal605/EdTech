@@ -3,15 +3,7 @@
 **Description:**  
 EdTech is a comprehensive educational platform designed to facilitate seamless learning experiences for users and instructors. With a modern and stylish user interface built on React.js and Tailwind CSS, this platform enables users to easily navigate through courses, track their progress, and manage their profiles. Instructors can efficiently create and manage courses, enhancing the educational landscape with dynamic content. The backend, powered by Node.js and Express, ensures a scalable and robust server environment, while MongoDB serves as the reliable database for all user and course data. 
 
-<p >
-  <strong>Frontend:</strong> React.js with Tailwind CSS for a modern, stylish UI.<br>
-  <strong>State Management:</strong> Redux for seamless state management.<br>
-  <strong>Backend:</strong> Node.js and Express for a scalable and efficient server.<br>
-  <strong>Database:</strong> MongoDB for data storage and management.<br>
-  <strong>External Services:</strong> Cloudinary for managing and storing media files.<br>
-  <strong>Payment Gateway:</strong> Razorpay for secure payment processing.<br>
-  <strong>Additional Services:</strong> OTP functionality for user verification and email notifications for communication.
-</p>
+
 
 ## 🌟 User Experience and Features
 
